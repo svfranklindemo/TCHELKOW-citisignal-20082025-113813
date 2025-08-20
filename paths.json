@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/eds-citisignal-source/:/",
-      "/content/pbakliwal/eds-citisignal-source/configuration:/.helix/config.json",
-      "/content/pbakliwal/eds-citisignal-source/metadata:/metadata.json",
-      "/content/pbakliwal/eds-citisignal-source/configs:/configs.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/eds-citisignal-source/redirects:/redirects.json",
-      "/content/pbakliwal/eds-citisignal-source/placeholders:/placeholders.json",
-      "/content/pbakliwal/eds-citisignal-source/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/eds-citisignal-source/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/eds-citisignal-source/images/products/:/images/products/"
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/:/",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/configuration:/.helix/config.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/metadata:/metadata.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/configs:/configs.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/configs-stage:/configs-stage.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/configs-dev:/configs-dev.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/redirects:/redirects.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/placeholders:/placeholders.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/products/recommended-products:/products/recommended-products.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/TCHELKOW/69e28d49-b658-417c-8f77-9f34e2131d57/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/eds-citisignal-source",
+      "/content/TCHELKOW/New Demo",
       "/content/dam/citisignal/images/products/"
     ]
 }
